@@ -1,0 +1,11 @@
+#searchField {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    color: #fff;
+    font: normal normal normal 16px/28px Open Sans;
+}
+
+#searchField input::placeholder {
+    color: #fff;
+}
